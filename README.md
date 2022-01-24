@@ -8,17 +8,8 @@ Users have the ability to tweak some values including: algorithm being used, siz
 Users will also have the abilitity to start the algorithm, reset the options values, and clear the panel.
 
 # Algorithms
-Sort Algorithms: 
-Markup : - Bubble Sort
-         - Quick Sort
-         - Selection Sort
-         - Merge Sort
-         - Insertion Sort
-         - Heap Sort
+Sort Algorithms: Bubble Sort, Quick Sort, Selection Sort, Merge Sort, Insertion Sort, and Heap Sort
          
-Pathfinding Algorithms:
-Markup : - Dijkstra
-         - A*
-         - Lee's Algorithm
+Pathfinding Algorithms: Dijkstra, A*, Lee's Algorithm
          
          
