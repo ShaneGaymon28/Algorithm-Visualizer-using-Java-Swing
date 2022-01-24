@@ -9,16 +9,16 @@ Users will also have the abilitity to start the algorithm, reset the options val
 
 # Algorithms
 Sort Algorithms: 
-Markup : * Bubble Sort
-         * Quick Sort
-         * Selection Sort
-         * Merge Sort
-         * Insertion Sort
-         * Heap Sort
+Markup : - Bubble Sort
+         - Quick Sort
+         - Selection Sort
+         - Merge Sort
+         - Insertion Sort
+         - Heap Sort
          
 Pathfinding Algorithms:
-Markup : * Dijkstra
-         * A*
-         * Lee's Algorithm
+Markup : - Dijkstra
+         - A*
+         - Lee's Algorithm
          
          
